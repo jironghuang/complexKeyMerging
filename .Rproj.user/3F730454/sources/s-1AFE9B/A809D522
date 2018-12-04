@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543936332647.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A809D522",
+    "lastKnownWriteTime" : 1543938490,
+    "last_content_update" : 1543938490868,
+    "path" : "~/Desktop/github/complexKeyMerging/R/complex_key_merging.R",
+    "project_path" : "R/complex_key_merging.R",
+    "properties" : {
+        "cursorPosition" : "18,43",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

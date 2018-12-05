@@ -4,7 +4,15 @@
 \alias{complex_key_merging}
 \title{Function that merge based on complex key}
 \usage{
-complex_key_merging(dp_dat1, dp_dat2, sap_complex_key1, sap_complex_key2)
+complex_key_merging(dp_dat1, dp_dat2, sap_complex_key1, sap_complex_key2,
+  all = FALSE, all.x = all, all.y = all)
+}
+\arguments{
+\item{all}{follows default merge argument here}
+
+\item{all.x}{follows default merge argument here}
+
+\item{all.y}{follows default merge argument here}
 }
 \description{
 This function allows you to merge 2 data frames using complex keys

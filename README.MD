@@ -7,7 +7,7 @@ Hence, I took the liberty to develop a simple function (complex_key_merging) in 
 In future, I may embed this as part of a wider utility package. But meanwhile, you may install this package with the following steps,
 
 - library(devtools)
-- install_github("jironghuang/complex_key_merging")
+- install_github("jironghuang/complexKeyMerging")
 
 ## How to use it
 
